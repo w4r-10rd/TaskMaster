@@ -1,0 +1,14 @@
+C:\Users\ariji\OneDrive\Documents\code\taskMaster\bin\Debug\net8.0\taskMaster.exe
+C:\Users\ariji\OneDrive\Documents\code\taskMaster\bin\Debug\net8.0\taskMaster.deps.json
+C:\Users\ariji\OneDrive\Documents\code\taskMaster\bin\Debug\net8.0\taskMaster.runtimeconfig.json
+C:\Users\ariji\OneDrive\Documents\code\taskMaster\bin\Debug\net8.0\taskMaster.dll
+C:\Users\ariji\OneDrive\Documents\code\taskMaster\bin\Debug\net8.0\taskMaster.pdb
+C:\Users\ariji\OneDrive\Documents\code\taskMaster\obj\Debug\net8.0\taskMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariji\OneDrive\Documents\code\taskMaster\obj\Debug\net8.0\taskMaster.AssemblyInfoInputs.cache
+C:\Users\ariji\OneDrive\Documents\code\taskMaster\obj\Debug\net8.0\taskMaster.AssemblyInfo.cs
+C:\Users\ariji\OneDrive\Documents\code\taskMaster\obj\Debug\net8.0\taskMaster.csproj.CoreCompileInputs.cache
+C:\Users\ariji\OneDrive\Documents\code\taskMaster\obj\Debug\net8.0\taskMaster.dll
+C:\Users\ariji\OneDrive\Documents\code\taskMaster\obj\Debug\net8.0\refint\taskMaster.dll
+C:\Users\ariji\OneDrive\Documents\code\taskMaster\obj\Debug\net8.0\taskMaster.pdb
+C:\Users\ariji\OneDrive\Documents\code\taskMaster\obj\Debug\net8.0\taskMaster.genruntimeconfig.cache
+C:\Users\ariji\OneDrive\Documents\code\taskMaster\obj\Debug\net8.0\ref\taskMaster.dll
